@@ -1,0 +1,17 @@
+// https://www.youtube.com/watch?v=7OMrWvXNedw
+// Source: Craig Perko
+
+Craig Perko put out a Tutorial on using events
+This took this a step further to work out
+various Unity ways to have 
+Events, Action and Delegates
+
+Based on these approaches, 
+we took a certain approach.
+To how we manage our data.
+This DOES give some potential for change.
+We click on a tile, then click on another
+to attack.
+
+Agnostically uses events and their removal
+in another way to make it easy to code.
