@@ -6,6 +6,9 @@ By Haven Studios
 Programmed by Micaiah Stevens
 support@havenstudios.net
 
+Unity: 2019.4.34f1 LTS
+Unity: 2021.2.8f1 (Tested)
+
 This programming project which is released on GitHub is a showcase project for Micaiah Stevens.  This is released as is and can be manipulated changed or full access to the source code, with the expressed understanding this concept might be taken further by Micaiah, and all code concepts and ideas are the sole owner of Micaiah.   While using Tutorials and concepts, normally codes everything himself and reengineers it anyways to his preferred standards.
 
 While the code show cases implementing Craig Perko’s code from his YouTube tutorial.  It happened to come out at a similar time.  (This was entitled LandEvents) This starting code was taken further in exploring all the other ways you can use Events.  And is self-Contained.
